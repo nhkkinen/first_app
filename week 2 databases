@@ -1,0 +1,5 @@
+week 2 databases
+rake db:migrate
+rails c
+
+rails for zombies level 4
